@@ -1,7 +1,7 @@
 
 
-		/* ¿Cuáles son los empleados con mayor experiencia por sucursal?*/                                          */
-		/*==============================================================*/
+		/* ¿Cuáles son los empleados con mayor experiencia por sucursal?*/                                          
+		
 
 /*En la sucursal 1 nos debe mostrar  a Romario Caicedo su fecha que ingreso a laborar es "2017-04-01" */
 Select 
